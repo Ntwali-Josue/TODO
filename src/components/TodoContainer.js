@@ -6,28 +6,12 @@ import Header from "./Header";
 import InputTodo from "./InputTodo";
 import About from "../pages/about";
 import Navbar from "./NavBar";
-import SinglePage from "./SinglePage"
+import SinglePage from "../pages/SinglePage"
 
 
 class TodoContainer extends React.Component {
   state = {
-    todos: [
-      {
-        id: uuidv4(),
-        title: "Setup development environment",
-        completed: true,
-      },
-      {
-        id: uuidv4(),
-        title: "Develop website and add content",
-        completed: false,
-      },
-      {
-        id: uuidv4(),
-        title: "Deploy to live server",
-        completed: false,
-      },
-    ],
+    todos: [],
   };
 
   handleChange = (id) => {
