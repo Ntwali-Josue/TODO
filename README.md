@@ -1,48 +1,43 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# React TODO APP
+# REACT TODO APP
 
-> This project is all about creating a todo web app with React.js.
+> This project is a webapp which helps the user to do basic interaction with the Todo App.
 
-<!-- ![screenshot](./app_screenshot.png) -->
+<!-- ![screenshot](https://user-images.githubusercontent.com/58233753/133434087-cb4dcf0b-3c51-4cf9-85e5-f5eb74d2dde4.png) -->
 
-Additional description about the project and its features.
+## Built With 
 
-## Built With
+- HTML, JAVASCRIPT, CSS
+- React
+- Babel, Linters, Git
 
-- JAVASCRIPT, HTML AND CSS
-- React.js 
-- GIT,LINTERS.
+## Live Demo 
 
-## Live Demo
+[Live Demo Link](https://ntwali-josue.github.io/TODO/)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+## Getting Started 
+**To get started with the project, you can use the [Live Demo Link](https://ntwali-josue.github.io/TODO/) to access the website and interact with the features.**
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-- `Node.js`
-- `GIT`
+### Prerequisites 📌
+- `Node.js` installed.
+- `Git` installed.
 
-### Setup
-- Run `git clone https://www.github.com/Ntwali-Josue/TODO.git`. 
-### Install
-- Run `npm install` to install dependencie
-### Usage
-- Run `npm start` to run the web app in your browser at `localhost:3000`
-### Run tests
-- There are no tests written yet for this project.
-### Deployment
-- Run `npm run build && npm run deploy` to deploy the web app features
+### Setup 🔂 
+- Clone this repository by running `git clone https://github.com/Ntwali-Josue/TODO.git` in your terminal.
 
-## Authors
+### Install ⚙️
+- Run `npm install` in your terminal to install the dependencies.
+
+### Usage 💻
+- Run `npm start` for webpack to run and open your application in the browser.
+
+### Deployment  🌐
+- Run `npm run build` && `npm run deploy` to deploy the application.
+
+## Author 👨🏾‍💻
 
 👤 **KARANGWA Ntwali Josue**
 
@@ -54,17 +49,11 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https:github.com/Ntwali-Josue/TODO/issues/).
+Feel free to check the [issues page](https://github.com/Ntwali-Josue/math-magician/issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
