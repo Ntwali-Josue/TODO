@@ -1,75 +1,59 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# REACT TODO APP
 
-> One paragraph statement about the project.
+> This project is a webapp which helps the user to do basic interaction with the Todo App.
 
-![screenshot](./app_screenshot.png)
+<!-- ![screenshot](https://user-images.githubusercontent.com/58233753/133434087-cb4dcf0b-3c51-4cf9-85e5-f5eb74d2dde4.png) -->
 
-Additional description about the project and its features.
+## Built With 
 
-## Built With
+- HTML, JAVASCRIPT, CSS
+- React
+- Babel, Linters, Git
 
-- Major languages
-- Frameworks
-- Technologies used
+## Live Demo 
 
-## Live Demo
+[Live Demo Link](https://ntwali-josue.github.io/TODO/)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+## Getting Started 
+**To get started with the project, you can use the [Live Demo Link](https://ntwali-josue.github.io/TODO/) to access the website and interact with the features.**
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites 📌
+- `Node.js` installed.
+- `Git` installed.
 
-### Setup
+### Setup 🔂 
+- Clone this repository by running `git clone https://github.com/Ntwali-Josue/TODO.git` in your terminal.
 
-### Install
+### Install ⚙️
+- Run `npm install` in your terminal to install the dependencies.
 
-### Usage
+### Usage 💻
+- Run `npm start` for webpack to run and open your application in the browser.
 
-### Run tests
+### Deployment  🌐
+- Run `npm run build` && `npm run deploy` to deploy the application.
 
-### Deployment
+## Author 👨🏾‍💻
 
+👤 **KARANGWA Ntwali Josue**
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Ntwali-Josue](https://github.com/Ntwali-Josue)
+- Twitter: [@JosueNtwali](https://twitter.com/JosueNtwali)
+- LinkedIn: [karangwa](https://linkedin.com/in/karangwa)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Ntwali-Josue/math-magician/issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
